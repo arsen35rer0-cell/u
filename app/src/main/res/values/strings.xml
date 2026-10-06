@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DPI Bypass</string>
+    <string name="vpn_notification_channel">VPN Service</string>
+    <string name="vpn_notification_title">DPI Bypass Active</string>
+    <string name="vpn_notification_text">Protecting your YouTube connection</string>
+    <string name="btn_start">Start Protection</string>
+    <string name="btn_stop">Stop Protection</string>
+    <string name="status_active">Protected</string>
+    <string name="status_inactive">Not Protected</string>
+</resources>
