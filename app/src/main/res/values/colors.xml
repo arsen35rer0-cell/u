@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="youtube_red">#FF0000</color>
+    <color name="dark_bg">#FF0F0F0F</color>
+    <color name="card_bg">#FF1F1F1F</color>
+    <color name="accent_green">#FF00E676</color>
+</resources>
